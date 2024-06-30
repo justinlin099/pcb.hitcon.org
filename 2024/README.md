@@ -15,7 +15,8 @@
 ## 開始使用/ Getting Started
 
 ### 安裝電池/ Install battery
-![電池說明](https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/7f673713-31a1-4b3e-8c4d-2808079411fc)
+
+![電池說明](https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/ea6f2602-2be0-4f2d-810c-713632240940)
 
 
 ### 基本操作/ Controls
