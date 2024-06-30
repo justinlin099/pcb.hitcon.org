@@ -12,20 +12,20 @@
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
 - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
 
-# 開始使用/ Getting Started
+## 開始使用/ Getting Started
 
-## 安裝電池/ Install battery
+### 安裝電池/ Install battery
 
-## 基本操作/ Controls
+### 基本操作/ Controls
 
-## 設定名字/ Set your name
+### 設定名字/ Set your name
 
-# USB 功能/ USB Features
+## USB 功能/ USB Features
 
-## Bad USB/ Bad USB
+### Bad USB/ Bad USB
 
-## 安全性金鑰/ U2F
+### 安全性金鑰/ U2F
 
-# 跨板溝通功能/ Cross-board interactive
+## 跨板溝通功能/ Cross-board interactive
 
-## 俄羅斯方塊/ Tetris
+### 俄羅斯方塊/ Tetris
