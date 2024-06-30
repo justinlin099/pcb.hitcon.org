@@ -58,6 +58,8 @@ In the main interface (name display mode), you can set what information you want
 4. When the setting is completed, press the OK key.
 
 ### 調整亮度/ Adjust Brightness
+<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/87999224-b2e7-448a-9938-ea36154ff678' width="500"/>
+
 
 ## USB 功能/ USB Features
 
