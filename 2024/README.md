@@ -25,6 +25,9 @@
 <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/882c6004-54ce-4e41-baa3-946dbc6eb1b2' width="500"/>
 
 
+
+
+
 ### 設定名字
   1. 在主介面(名稱顯示模式)時，長按<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width="50"/>進入名稱顯示模式的設定清單。
   2. 選擇 Name Set (名稱設定)並按下確認鍵。
@@ -36,6 +39,10 @@
   2. Select Name Set and press ok key.
   3. In the name setting mode, use the up and down keys to change letters, and the left and right keys to select the letter you want to change.
   4. When the setting is completed, press the OK key.
+
+
+
+
 
 ### 設定顯示模式
 在主介面(名稱顯示模式)時，你可以設定要輪播顯示的資訊。
@@ -56,6 +63,10 @@ In the main interface (name display mode), you can set what information you want
  - Name Only (only display name)
  - Score Only (only show scores)
 4. When the setting is completed, press the OK key.
+
+
+
+
 
 ### 調整亮度/ Adjust Brightness
 <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/87999224-b2e7-448a-9938-ea36154ff678' width="500"/>
