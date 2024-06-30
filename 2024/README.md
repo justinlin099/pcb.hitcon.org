@@ -15,11 +15,12 @@
 ## 開始使用/ Getting Started
 
 ### 安裝電池/ Install battery
-
 <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/ea6f2602-2be0-4f2d-810c-713632240940' width="500"/>
 
 
 ### 基本操作/ Controls
+<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/882c6004-54ce-4e41-baa3-946dbc6eb1b2' width="500"/>
+
 
 ### 設定名字/ Set your name
 
