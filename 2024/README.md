@@ -23,6 +23,10 @@
 
 
 ### 設定名字/ Set your name
+1. 在主介面(名稱顯示模式)時，長按<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/09e9fb08-cbe3-486c-ac1d-9575426b2155' width="50"/>進入名稱顯示模式的定清單。
+
+
+
 
 ## USB 功能/ USB Features
 
