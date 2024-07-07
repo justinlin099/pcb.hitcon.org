@@ -22,8 +22,7 @@
 
 
 ### 基本操作/ Controls
-<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/882c6004-54ce-4e41-baa3-946dbc6eb1b2' width="500"/>
-
+<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/275c9453-e08d-4827-a4ae-54088323a854' width="500"/>
 
 
 
