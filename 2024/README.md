@@ -6,7 +6,7 @@
   - [安裝電池/ Install Battery](#安裝電池-install-battery)
   - [基本操作/ Basic Controls](#基本操作-controls)
   - [設定名字/ Set Your Name](#設定名字)
-  - [設定顯示模式/ Set Name Display Mode](#設定顯示模式)
+  - [設定顯示模式/ Set Display Mode](#設定顯示模式)
   - [調整亮度/ Adjust Brightness](#調整亮度-adjust-brightness)
 - [USB 功能/ USB Features](#usb-功能-usb-features)
   - [Bad USB/ Bad USB](#bad-usb-bad-usb)
@@ -53,7 +53,7 @@
    - Score Only (只顯示分數)
 4. 當設定完成時，按下確認鍵。
 
-### Set Name Display Mode
+### Set Display Mode
 In the main interface (name display mode), you can set what information you want to be displayed on the LED Matrix.
 1. In the main interface (name display mode), long press <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width ="50"/>to enter the settings menu of name display mode.
 2. Select Set Display Mode and press the Enter key.
