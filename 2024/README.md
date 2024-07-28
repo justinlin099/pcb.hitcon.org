@@ -9,7 +9,7 @@
   - [設定顯示模式/ Set Display Mode](#設定顯示模式)
   - [調整亮度/ Adjust Brightness](#調整亮度-adjust-brightness)
 - [USB 功能/ USB Features](#usb-功能-usb-features)
-  - [Bad USB/ Bad USB](#bad-usb-bad-usb)
+  - [Bad USB/ Bad USB](#bad-usb)
   - [安全性金鑰/ U2F](#安全性金鑰-u2f)
   - [USB 設定選單/ USB Settings Menu](#usb-設定選單-usb-settings-menu)
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
@@ -73,7 +73,17 @@ In the main interface (name display mode), you can set what information you want
 
 ## USB 功能/ USB Features
 
-### Bad USB/ Bad USB
+### Bad USB
+
+#### 1. 將你的腳本放進 Badge 中：
+
+#### 2. 執行 Bad USB 腳本：
+
+### Bad USB
+
+#### 1. Send your Bad USB Script into your badge：
+
+#### 2. Execute Bad USB Script：
 
 ### 安全性金鑰/ U2F
 
