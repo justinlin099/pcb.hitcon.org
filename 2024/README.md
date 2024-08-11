@@ -85,9 +85,13 @@ In the main interface (name display mode), you can set what information you want
 
 #### 2. Execute Bad USB Script：
 
-### 安全性金鑰/ U2F
+## 遊戲/ Games
 
-### USB 設定選單/ USB Settings Menu
+### 俄羅斯方塊/ Tetris
+
+### 小恐龍/ Dino
+
+### 貪吃蛇/ Snake
 
 ## 跨板溝通功能/ Cross-board interactive
 
