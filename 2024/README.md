@@ -96,7 +96,8 @@ In the main interface (name display mode), you can set what information you want
 
 ### 小恐龍/ Dino
 
-<img src='https://github.com/user-attachments/assets/f44192fa-cb5c-471f-8be1-dc370dbbb4db' width="500"/>
+<img src='https://github.com/user-attachments/assets/70747b44-5a38-4ca7-91e5-2d988a5edb1a' width="500"/>
+
 
 ### 貪吃蛇/ Snake
 
