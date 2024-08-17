@@ -15,7 +15,7 @@
 - [USB 功能/ USB Features](#usb-功能-usb-features)
   - [Bad USB/ Bad USB](#bad-usb)
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
-  - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
+  - [資料交換/ xchg](#資料交換-xchg)
 
 ## 開始使用/ Getting Started
 
@@ -106,4 +106,4 @@ In the main interface (name display mode), you can set what information you want
 
 ## 跨板溝通功能/ Cross-board interactive
 
-### 俄羅斯方塊/ Tetris
+### 
