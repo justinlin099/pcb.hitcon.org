@@ -15,7 +15,8 @@
 - [USB 功能/ USB Features](#usb-功能-usb-features)
   - [Bad USB/ Bad USB](#bad-usb)
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
-  - [資料交換/ xchg](#資料交換-xchg)
+  - [資料交換/ Data Excahnge](#資料交換)
+  - [遊戲對戰/ Game Battle](#遊戲對戰)
 
 ## 開始使用/ Getting Started
 
@@ -104,8 +105,32 @@ In the main interface (name display mode), you can set what information you want
 
 <img src='https://github.com/user-attachments/assets/f6e389ec-eaf6-46d8-b33f-ceb25c746561' width="500"/>
 
-## 跨板溝通功能/ Cross-board interactive
+## 跨板溝通功能/ Cross-board Interactive
 
 <img src='https://github.com/user-attachments/assets/e81d5a58-3ac6-4ee3-96a6-5aa50a4b01e0' width="500"/>
 
-### 資料交換/ 
+你可以透過 Badge 上的跨版溝通針腳與其他的會眾進行連結交流，並且可以進行遊戲對戰或是分數交流。
+
+### 資料交換
+
+1. 請將兩張 Badge 透過跨版溝通針腳進行連接，跨版溝通的選單會自動出現在畫面上。
+2. 請使用上下鍵來選擇 Send 功能，並且按下 OK 鍵開始傳送資料進行分數交流。
+
+### Data Excahnge
+
+1. Please connect two Badge together using the cross-board connector, and the cross-board menu will show up automatically.
+2. Please navigate through the menu using up and down keys and select "Send" function in the menu, then press OK button to exchange the score.
+
+### 遊戲對戰
+
+1. 請將兩張 Badge 透過跨版溝通針腳進行連接，跨版溝通的選單會自動出現在畫面上。
+2. 請使用上下鍵來選擇你要玩的遊戲，並且按下 OK 鍵開始進行遊戲對戰。
+
+### Game Battle
+
+1. Please connect two Badge together using the cross-board connector, and the cross-board menu will show up automatically.
+2. Please navigate through the menu using up and down keys and select the game you want to play, then press OK button to play the game with others.
+
+
+
+
