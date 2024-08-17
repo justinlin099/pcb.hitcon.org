@@ -92,6 +92,8 @@ In the main interface (name display mode), you can set what information you want
 
 ### 俄羅斯方塊/ Tetris
 
+<img src='https://github.com/user-attachments/assets/27f8a094-aa6f-480d-a348-cc645ca86dc8' width="500"/>
+
 ### 小恐龍/ Dino
 
 ### 貪吃蛇/ Snake
