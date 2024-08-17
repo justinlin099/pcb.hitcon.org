@@ -98,8 +98,9 @@ In the main interface (name display mode), you can set what information you want
 
 <img src='https://github.com/user-attachments/assets/70747b44-5a38-4ca7-91e5-2d988a5edb1a' width="500"/>
 
-
 ### 貪吃蛇/ Snake
+
+<img src='https://github.com/user-attachments/assets/f6e389ec-eaf6-46d8-b33f-ceb25c746561' width="500"/>
 
 ## 跨板溝通功能/ Cross-board interactive
 
