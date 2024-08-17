@@ -8,12 +8,14 @@
   - [設定名字/ Set Your Name](#設定名字)
   - [設定顯示模式/ Set Display Mode](#設定顯示模式)
   - [調整亮度/ Adjust Brightness](#調整亮度-adjust-brightness)
+- [遊戲/ Games](#遊戲-games)
+  - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
+  - [小恐龍/ Dino](#小恐龍-dino)
+  - [貪吃蛇/ Snake](#貪吃蛇-snake)
 - [USB 功能/ USB Features](#usb-功能-usb-features)
   - [Bad USB/ Bad USB](#bad-usb)
-  - [安全性金鑰/ U2F](#安全性金鑰-u2f)
-  - [USB 設定選單/ USB Settings Menu](#usb-設定選單-usb-settings-menu)
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
-- [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
+  - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
 
 ## 開始使用/ Getting Started
 
