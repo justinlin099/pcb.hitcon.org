@@ -86,6 +86,9 @@ In the main interface (name display mode), you can set what information you want
 #### 2. Execute Bad USB Script：
 
 ## 遊戲/ Games
+1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
+2. 在功能主選單中，你可以透過上下鍵來選擇要執行的功能或遊戲。/ You can navigate through the menu using up and down key to select the function or the game you want to run.
+3. 當你選擇好要執行的功能時，就可以按下 OK 鍵。/ When you selected the function or games you want to run, press the OK key to execute.
 
 ### 俄羅斯方塊/ Tetris
 
