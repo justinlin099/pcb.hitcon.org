@@ -108,6 +108,4 @@ In the main interface (name display mode), you can set what information you want
 
 <img src='https://github.com/user-attachments/assets/e81d5a58-3ac6-4ee3-96a6-5aa50a4b01e0' width="500"/>
 
-
-
-### 
+### 資料交換/ 
