@@ -31,6 +31,8 @@
 
 
 ### 設定名字
+<img src='https://github.com/user-attachments/assets/d9f5b9b3-346e-4ea2-9149-518e5ff9fe39' width="500"/>
+
   1. 在主介面(名稱顯示模式)時，長按<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width="50"/>進入名稱顯示模式的設定清單。
   2. 選擇 Name Set (名稱設定)並按下確認鍵。
   3. 在名稱設定模式中，使用上下鍵變更字母，左右鍵選擇你要變更的字母。
