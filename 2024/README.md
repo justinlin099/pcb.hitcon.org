@@ -76,20 +76,6 @@ In the main interface (name display mode), you can set what information you want
 <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/87999224-b2e7-448a-9938-ea36154ff678' width="500"/>
 
 
-## USB 功能/ USB Features
-
-### Bad USB
-
-#### 1. 將你的腳本放進 Badge 中：
-
-#### 2. 執行 Bad USB 腳本：
-
-### Bad USB
-
-#### 1. Send your Bad USB Script into your badge：
-
-#### 2. Execute Bad USB Script：
-
 ## 遊戲/ Games
 1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
 2. 在功能主選單中，你可以透過上下鍵來選擇要執行的功能或遊戲。/ You can navigate through the menu using up and down key to select the function or the game you want to run.
@@ -106,6 +92,20 @@ In the main interface (name display mode), you can set what information you want
 ### 貪吃蛇/ Snake
 
 <img src='https://github.com/user-attachments/assets/f6e389ec-eaf6-46d8-b33f-ceb25c746561' width="500"/>
+
+## USB 功能/ USB Features
+
+### Bad USB
+
+#### 1. 將你的腳本放進 Badge 中：
+
+#### 2. 執行 Bad USB 腳本：
+
+### Bad USB
+
+#### 1. Send your Bad USB Script into your badge：
+
+#### 2. Execute Bad USB Script：
 
 ## 跨板溝通功能/ Cross-board Interactive
 
