@@ -17,6 +17,7 @@
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
   - [資料交換/ Data Exchange](#資料交換)
   - [遊戲對戰/ Game Battle](#遊戲對戰)
+- [領獎規則/ Prize Collection Rules](#領獎規則-prize-collection-rules)
 
 ## 開始使用/ Getting Started
 
@@ -151,6 +152,49 @@ In the main interface (name display mode), you can set what information you want
 1. Please connect two Badge together using the cross-board connector, and the cross-board menu will show up automatically.
 2. Please navigate through the menu using up and down keys and select the game you want to play, then press OK button to play the game with others.
 
+## 領獎規則/ Prize Collection Rules
+
+### 獎項
+
+1. HITCON Offline
+   - 參加獎：9 ~ 60 名
+   - 中獎品：4 ~ 8 名
+   - 大獎品：1 ~ 3 名
+
+2. BadUSB
+   - 新手級
+   - 進階級
+   - 魔王級
+   - 以上只要通關任一難度即可現場領獎
+     
+### HITCON Offline 分數登記與領獎時間
+
+請將您 PCB Badge 的分數填寫到此表單，若名次在 60 名以內，即可到活動組攤會領取神秘獎品！
+分數登記連結：https://forms.gle/3Pk29jtyk4qFQyxM7
+        
+8/23 (第一日)：分數將於 15:00 結算，15:00 以後玩家可來攤位領獎
+8/24 (第二日)：分數將於 14:00 結算，14:00 以後玩家可來攤位領獎
+
+### Prizes
+
+1. HITCON Offline
+   - Participation Prize: 9th to 60th place
+   - Mid-Tier Prize: 4th to 8th place
+   - Grand Prize: 1st to 3rd place
+
+2. BadUSB
+   - Beginner Level
+   - Intermediate Level
+   - Expert Level
+   - Prizes can be claimed on-site upon completion of any level.
+     
+### HITCON Offline Score Registration and Prize Collection Schedule
+
+Please enter your PCB Badge score into this form. If you rank within the top 60, you can visit the event booth to claim a mystery prize!
+Score registration link: https://forms.gle/3Pk29jtyk4qFQyxM7
+        
+- August 23 (Day 1): Scores will be finalized at 15:00, and players can collect their prizes at the booth after 15:00.
+- August 24 (Day 2): Scores will be finalized at 14:00, and players can collect their prizes at the booth after 14:00.
 
 
 
