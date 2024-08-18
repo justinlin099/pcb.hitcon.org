@@ -15,7 +15,7 @@
 - [USB 功能/ USB Features](#usb-功能-usb-features)
   - [Bad USB/ Bad USB](#bad-usb)
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
-  - [資料交換/ Data Excahnge](#資料交換)
+  - [資料交換/ Data Exchange](#資料交換)
   - [遊戲對戰/ Game Battle](#遊戲對戰)
 
 ## 開始使用/ Getting Started
@@ -131,7 +131,7 @@ In the main interface (name display mode), you can set what information you want
 1. 請將兩張 Badge 透過跨版溝通針腳進行連接，跨版溝通的選單會自動出現在畫面上。
 2. 請使用上下鍵來選擇 Send 功能，並且按下 OK 鍵開始傳送資料進行分數交流。
 
-### Data Excahnge
+### Data Exchange
 
 1. Please connect two Badge together using the cross-board connector, and the cross-board menu will show up automatically.
 2. Please navigate through the menu using up and down keys and select "Send" function in the menu, then press OK button to exchange the score.
