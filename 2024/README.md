@@ -83,7 +83,7 @@ In the main interface (name display mode), you can set what information you want
 
 ### 俄羅斯方塊/ Tetris
 
-<img src='https://github.com/user-attachments/assets/27f8a094-aa6f-480d-a348-cc645ca86dc8' width="500"/>
+<img src='https://github.com/user-attachments/assets/9157f5ec-f9fc-4080-83bc-75bbadca47e9' width="500"/>
 
 ### 小恐龍/ Dino
 
