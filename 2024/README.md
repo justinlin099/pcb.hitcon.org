@@ -37,10 +37,10 @@
   2. 選擇 EditName (名稱設定)並按下確認鍵。
   3. 在名稱設定模式中，使用上下鍵變更字母，左右鍵選擇你要變更的字母。
   4. 當設定完成時，按下確認鍵。
-  
+
 ### Set your name
   1. In the main interface (name display mode), long press <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width ="50"/>to enter the settings menu of name display mode.
-  2. Select EditName and press ok key.
+  2. Select "EditName" and press ok key.
   3. In the name setting mode, use the up and down keys to change letters, and the left and right keys to select the letter you want to change.
   4. When the setting is completed, press the OK key.
 
@@ -51,21 +51,21 @@
 ### 設定顯示模式
 在主介面(名稱顯示模式)時，你可以設定要輪播顯示的資訊。
 1. 在主介面(名稱顯示模式)時，長按<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width="50"/>進入名稱顯示模式的設定清單。
-2. 選擇 Set Display Mode (設定顯示模式)並按下確認鍵。
+2. 選擇 `NameDisplay` 並按下確認鍵。
 3. 在設定顯示模式中，使用上下鍵選擇你要顯示的資訊：
-   - Name + Score (名稱+分數)
-   - Name Only (只顯示名稱)
-   - Score Only (只顯示分數)
+   - `Both` (名稱+分數)
+   - `ScoreOnly` (只顯示分數)
+   - `NameOnly` (只顯示名稱)
 4. 當設定完成時，按下確認鍵。
 
 ### Set Display Mode
 In the main interface (name display mode), you can set what information you want to be displayed on the LED Matrix.
 1. In the main interface (name display mode), long press <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width ="50"/>to enter the settings menu of name display mode.
-2. Select Set Display Mode and press the Enter key.
+2. Select `NameDisplay` and press the Enter key.
 3. In the setting display mode, use the up and down keys to select the information you want to display:
- - Name + Score (name + score)
- - Name Only (only display name)
- - Score Only (only show scores)
+ - `Both` (name + score)
+ - `ScoreOnly` (only display score)
+ - `NameOnly` (only display name)
 4. When the setting is completed, press the OK key.
 
 
@@ -80,6 +80,7 @@ In the main interface (name display mode), you can set what information you want
 1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
 2. 在功能主選單中，你可以透過上下鍵來選擇要執行的功能或遊戲。/ You can navigate through the menu using up and down key to select the function or the game you want to run.
 3. 當你選擇好要執行的功能時，就可以按下 OK 鍵。/ When you selected the function or games you want to run, press the OK key to execute.
+4. 按下 Mode 按鈕或是 Back 按鈕即可退出選單。/ To exit Main Menu, you can press either Mode key or Back key.
 
 ### 俄羅斯方塊/ Tetris
 
@@ -125,6 +126,10 @@ In the main interface (name display mode), you can set what information you want
 <img src='https://github.com/user-attachments/assets/e81d5a58-3ac6-4ee3-96a6-5aa50a4b01e0' width="500"/>
 
 你可以透過 Badge 上的跨版溝通針腳與其他的會眾進行連結交流，並且可以進行遊戲對戰或是分數交流。
+
+## 顯示分數/ Show score
+
+你可以透過上下鍵瀏覽不同遊戲的最高分數。 You can browse the highest score of each game with Up/Down key.
 
 ### 資料交換
 
