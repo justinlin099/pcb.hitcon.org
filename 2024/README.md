@@ -34,13 +34,13 @@
 <img src='https://github.com/user-attachments/assets/d9f5b9b3-346e-4ea2-9149-518e5ff9fe39' width="500"/>
 
   1. 在主介面(名稱顯示模式)時，長按<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width="50"/>進入名稱顯示模式的設定清單。
-  2. 選擇 Name Set (名稱設定)並按下確認鍵。
+  2. 選擇 EditName (名稱設定)並按下確認鍵。
   3. 在名稱設定模式中，使用上下鍵變更字母，左右鍵選擇你要變更的字母。
   4. 當設定完成時，按下確認鍵。
   
 ### Set your name
   1. In the main interface (name display mode), long press <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width ="50"/>to enter the settings menu of name display mode.
-  2. Select Name Set and press ok key.
+  2. Select EditName and press ok key.
   3. In the name setting mode, use the up and down keys to change letters, and the left and right keys to select the letter you want to change.
   4. When the setting is completed, press the OK key.
 
