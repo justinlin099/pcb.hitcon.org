@@ -15,7 +15,7 @@
 - [USB 功能/ USB Features](#usb-功能-usb-features)
   - [Bad USB/ Bad USB](#bad-usb)
 - [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
-  - [資料交換/ Data Excahnge](#資料交換)
+  - [資料交換/ Data Exchange](#資料交換)
   - [遊戲對戰/ Game Battle](#遊戲對戰)
 
 ## 開始使用/ Getting Started
@@ -34,13 +34,13 @@
 <img src='https://github.com/user-attachments/assets/d9f5b9b3-346e-4ea2-9149-518e5ff9fe39' width="500"/>
 
   1. 在主介面(名稱顯示模式)時，長按<img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width="50"/>進入名稱顯示模式的設定清單。
-  2. 選擇 `EditName` 並按下確認鍵。
+  2. 選擇 EditName (名稱設定)並按下確認鍵。
   3. 在名稱設定模式中，使用上下鍵變更字母，左右鍵選擇你要變更的字母。
   4. 當設定完成時，按下確認鍵。
 
 ### Set your name
   1. In the main interface (name display mode), long press <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/105b42a5-2a7f-403e-a162-03598900cc92' width ="50"/>to enter the settings menu of name display mode.
-  2. Select `EditName` and press ok key.
+  2. Select "EditName" and press ok key.
   3. In the name setting mode, use the up and down keys to change letters, and the left and right keys to select the letter you want to change.
   4. When the setting is completed, press the OK key.
 
@@ -76,20 +76,6 @@ In the main interface (name display mode), you can set what information you want
 <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/87999224-b2e7-448a-9938-ea36154ff678' width="500"/>
 
 
-## USB 功能/ USB Features
-
-### Bad USB
-
-#### 1. 將你的腳本放進 Badge 中：
-
-#### 2. 執行 Bad USB 腳本：
-
-### Bad USB
-
-#### 1. Send your Bad USB Script into your badge：
-
-#### 2. Execute Bad USB Script：
-
 ## 遊戲/ Games
 1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
 2. 在功能主選單中，你可以透過上下鍵來選擇要執行的功能或遊戲。/ You can navigate through the menu using up and down key to select the function or the game you want to run.
@@ -98,7 +84,7 @@ In the main interface (name display mode), you can set what information you want
 
 ### 俄羅斯方塊/ Tetris
 
-<img src='https://github.com/user-attachments/assets/27f8a094-aa6f-480d-a348-cc645ca86dc8' width="500"/>
+<img src='https://github.com/user-attachments/assets/9157f5ec-f9fc-4080-83bc-75bbadca47e9' width="500"/>
 
 ### 小恐龍/ Dino
 
@@ -107,6 +93,33 @@ In the main interface (name display mode), you can set what information you want
 ### 貪吃蛇/ Snake
 
 <img src='https://github.com/user-attachments/assets/f6e389ec-eaf6-46d8-b33f-ceb25c746561' width="500"/>
+
+## USB 功能/ USB Features
+
+### Bad USB
+
+#### 1. 將你的腳本放進 Badge 中：
+
+  
+
+#### 2. 執行 Bad USB 腳本：
+
+  1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。
+  2. 在功能主選單中，你可以透過上下鍵來選擇 Bad USB 功能。
+  3. 使用 USB Type-C 連接線連接你的電腦與 Badge。
+  4. 當你選擇好時，就可以按下 OK 鍵開始執行腳本。
+
+### Bad USB
+
+#### 1. Send your Bad USB Script into your badge：
+
+
+#### 2. Execute Bad USB Script：
+
+  1. You can access Main Menu by pressing Mode button on your badge.
+  2. Navigate through the menu using up and down key to select BadUSB function.
+  3. Plug the badge to your computer using USB Type-C Cable.
+  4. When you selected BadUSB, press the OK key to execute the script.
 
 ## 跨板溝通功能/ Cross-board Interactive
 
@@ -123,7 +136,7 @@ In the main interface (name display mode), you can set what information you want
 1. 請將兩張 Badge 透過跨版溝通針腳進行連接，跨版溝通的選單會自動出現在畫面上。
 2. 請使用上下鍵來選擇 Send 功能，並且按下 OK 鍵開始傳送資料進行分數交流。
 
-### Data Excahnge
+### Data Exchange
 
 1. Please connect two Badge together using the cross-board connector, and the cross-board menu will show up automatically.
 2. Please navigate through the menu using up and down keys and select "Send" function in the menu, then press OK button to exchange the score.
