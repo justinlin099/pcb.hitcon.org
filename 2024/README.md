@@ -99,17 +99,26 @@ In the main interface (name display mode), you can set what information you want
 
 #### 1. 將你的腳本放進 Badge 中：
 
-  1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
-  2. 在功能主選單中，你可以透過上下鍵來選擇 Bad USB 功能。/ You can navigate through the menu using up and down key to select the function or the game you want to run.
-  3. 當你選擇好時，就可以按下 OK 鍵。/ When you selected the function or games you want to run, press the OK key to execute.
+  
 
 #### 2. 執行 Bad USB 腳本：
+
+  1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。
+  2. 在功能主選單中，你可以透過上下鍵來選擇 Bad USB 功能。
+  3. 使用 USB Type-C 連接線連接你的電腦與 Badge。
+  4. 當你選擇好時，就可以按下 OK 鍵開始執行腳本。
 
 ### Bad USB
 
 #### 1. Send your Bad USB Script into your badge：
 
+
 #### 2. Execute Bad USB Script：
+
+  1. You can access Main Menu by pressing Mode button on your badge.
+  2. Navigate through the menu using up and down key to select BadUSB function.
+  3. Plug the badge to your computer using USB Type-C Cable.
+  4. When you selected BadUSB, press the OK key to execute the script.
 
 ## 跨板溝通功能/ Cross-board Interactive
 
