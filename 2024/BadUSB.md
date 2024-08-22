@@ -12,7 +12,7 @@ BadUSB 使用說明/ BadUSB Guide
    2.5 [String](#string)  
    2.6 [String Delay](#string-delay)  
    2.7 [Repeat](#repeat)  
-   2.8 [Reference](#語法資料參考-reference)  
+   2.8 [語法資料參考/ Reference](#語法資料參考-reference)  
 
 ## BadUSB 檔案格式/ BadUSB File Format
 
