@@ -3,7 +3,7 @@ BadUSB 使用說明/ BadUSB Guide
 
 ## 目錄/ TOC
 
-1. [BadUSB 檔案格式/ BadUSB File Format](#badusb-檔案格式--badusb-file-format)
+1. [BadUSB 檔案格式/ BadUSB File Format](#badusb-檔案格式-badusb-file-format)
 2. [指令語法/ Command Set](#command-set)  
    2.1 [Comment Line](#comment-line)  
    2.2 [Delay](#delay)  
@@ -11,12 +11,13 @@ BadUSB 使用說明/ BadUSB Guide
    2.4 [Modifier Keys](#modifier-keys)  
    2.5 [String](#string)  
    2.6 [String Delay](#string-delay)  
-   2.7 [Repeat](#repeat)
+   2.7 [Repeat](#repeat)  
+   2.8 [Reference](#語法資料參考-reference)  
 
 ## BadUSB 檔案格式/ BadUSB File Format
 
-HITCON PCB Badge BadUSB 大致上與 USB Rubber Ducky 1.0 腳本語言相容，以下是你可使用的指令與語法:
-HITCON PCB Badge BadUSB is mostly compatible with USB Rubber Ducky 1.0 Scripting Language, the following is the syntax you can use:
+HITCON PCB Badge BadUSB 大致上與 USB Rubber Ducky 1.0 and Flipper 腳本語言相容，以下是你可使用的指令與語法:
+HITCON PCB Badge BadUSB is mostly compatible with USB Rubber Ducky 1.0 and Flipper Scripting Language, the following is the syntax you can use:
 
 ## Command set
 
@@ -103,3 +104,7 @@ Delay between keypresses.
 | Command | Parameters               | Notes                      |
 |---------|--------------------------|----------------------------|
 | REPEAT  | Number of additional repeats | Repeat previous command     |
+
+### 語法資料參考/ Reference
+此語法說明文件是參考 [Flipper Zero Firmware: BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html) 製成。  
+This documentation is based on [Flipper Zero Firmware: BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html).  
