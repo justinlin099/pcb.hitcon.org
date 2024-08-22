@@ -29,24 +29,24 @@ Pause script execution by a defined time.
 |DOWNARROW / DOWN 	||
 |LEFTARROW / LEFT 	||
 |RIGHTARROW / RIGHT 	||
-UPARROW / UP 	||
-ENTER 	||
-DELETE 	||
-BACKSPACE ||	
-END 	
-HOME 	
-ESCAPE / ESC 	
-INSERT 	
-PAGEUP 	
-PAGEDOWN 	
-CAPSLOCK 	
-NUMLOCK 	
-SCROLLLOCK 	
-PRINTSCREEN 	
-BREAK 	Pause/Break key
-PAUSE 	Pause/Break key
-SPACE 	
-TAB 	
+|UPARROW / UP 	||
+|ENTER 	||
+|DELETE 	||
+|BACKSPACE ||	
+|END 	||
+|HOME 	||
+|ESCAPE / ESC ||	
+|INSERT 	||
+|PAGEUP 	||
+|PAGEDOWN 	||
+|CAPSLOCK 	||
+|NUMLOCK 	||
+|SCROLLLOCK 	||
+|PRINTSCREEN 	||
+|BREAK |	Pause/Break key|
+|PAUSE 	|Pause/Break key|
+|SPACE 	||
+|TAB 	||
 |MENU| 	Context menu key|
 |APP 	|Same as MENU|
 |Fx |	F1-F12 keys|
@@ -57,32 +57,31 @@ Can be combined with a special key command or a single character.
 |---|---|
 |CONTROL / CTRL 	||
 |SHIFT 	||
-ALT 	
-WINDOWS / GUI 	
-CTRL-ALT 	CTRL+ALT
-CTRL-SHIFT 	CTRL+SHIFT
-ALT-SHIFT 	ALT+SHIFT
-ALT-GUI 	ALT+WIN
-GUI-SHIFT 	WIN+SHIFT
-GUI-CTRL 	WIN+CTRL
-Key hold and release
+|ALT 	||
+|WINDOWS / GUI|| 	
+|CTRL-ALT |	CTRL+ALT|
+|CTRL-SHIFT |	CTRL+SHIFT|
+|ALT-SHIFT 	|ALT+SHIFT|
+|ALT-GUI 	|ALT+WIN|
+|GUI-SHIFT |	WIN+SHIFT|
+|GUI-CTRL 	|WIN+CTRL|
 
-Up to 5 keys can be hold simultaneously.
-Command 	Parameters 	Notes
-HOLD 	Special key or single character 	Press and hold key until RELEASE command
-RELEASE 	Special key or single character 	Release key
-String
-Command 	Parameters 	Notes
-STRING 	Text string 	Print text string
-STRINGLN 	Text string 	Print text string and press enter after it
-String delay
+
+### String
+|Command| 	Parameters| 	Notes|
+|---|---|---|
+|STRING 	|Text string 	|Print text string|
+|STRINGLN 	|Text string 	|Print text string and press enter after it|
+### String delay
 
 Delay between keypresses.
-Command 	Parameters 	Notes
-STRING_DELAY 	Delay value in ms 	Applied once to next appearing STRING command
-STRINGDELAY 	Delay value in ms 	Same as STRING_DELAY
-DEFAULT_STRING_DELAY 	Delay value in ms 	Apply to every appearing STRING command
-DEFAULTSTRINGDELAY 	Delay value in ms 	Same as DEFAULT_STRING_DELAY
-Repeat
-Command 	Parameters 	Notes
-REPEAT 	Number of additional repeats 	Repeat previous command 
+|Command| 	Parameters| 	Notes|
+|---|---|---|
+|STRING_DELAY 	|Delay value in ms 	|Applied once to next appearing STRING command|
+|STRINGDELAY 	|Delay value in ms 	|Same as STRING_DELAY|
+|DEFAULT_STRING_DELAY 	|Delay value in ms 	|Apply to every appearing STRING command|
+|DEFAULTSTRINGDELAY 	|Delay value in ms 	|Same as DEFAULT_STRING_DELAY|
+### Repeat
+|Command|	Parameters |	Notes|
+|---|---|---|
+|REPEAT 	|Number of additional repeats 	|Repeat previous command |
