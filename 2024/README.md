@@ -100,7 +100,7 @@ In the main interface (name display mode), you can set what information you want
 ### Bad USB
 
 #### 1. 將你的腳本放進 Badge 中：
-  請參照 [BadUSB 使用說明](BadUSB)
+  請參照 [BadUSB 使用說明](BadUSB.md)
 
   
 
@@ -114,7 +114,7 @@ In the main interface (name display mode), you can set what information you want
 ### Bad USB
 
 #### 1. Send your Bad USB Script into your badge：
-  Please refer to [BadUSB Guide](BadUSB)
+  Please refer to [BadUSB Guide](BadUSB.md)
 
 
 #### 2. Execute Bad USB Script：
