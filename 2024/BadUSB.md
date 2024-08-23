@@ -3,16 +3,24 @@ BadUSB 使用說明/ BadUSB Guide
 
 ## 目錄/ TOC
 
-1. [BadUSB 檔案格式/ BadUSB File Format](#badusb-檔案格式-badusb-file-format)
-2. [指令語法/ Command Set](#command-set)  
-   2.1 [Comment Line](#comment-line)  
-   2.2 [Delay](#delay)  
-   2.3 [Special Keys](#special-keys)  
-   2.4 [Modifier Keys](#modifier-keys)  
-   2.5 [String](#string)  
-   2.6 [String Delay](#string-delay)  
-   2.7 [Repeat](#repeat)  
-   2.8 [語法資料參考/ Reference](#語法資料參考-reference)  
+1. [BadUSB 腳本燒錄方式/ How to put your BadUSB script in badge](#badusb-腳本燒錄方式-How-to-put-your-BadUSB-script-in-badge)
+2. [BadUSB 檔案格式/ BadUSB File Format](#badusb-檔案格式-badusb-file-format)
+3. [指令語法/ Command Set](#command-set)
+   3.1 [Comment Line](#comment-line)
+   3.2 [Delay](#delay)
+   3.3 [Special Keys](#special-keys)
+   3.4 [Modifier Keys](#modifier-keys)
+   3.5 [String](#string)
+   3.6 [String Delay](#string-delay)
+   3.7 [Repeat](#repeat)
+   3.8 [語法資料參考/ Reference](#語法資料參考-reference)
+
+## BadUSB 腳本燒錄方式/ How to put your BadUSB script in badge
+
+可以透過 BadgeCommander 程式設定 BadUSB 腳本：[下載連結](https://github.com/john0312/hitcon-pcb-badge/releases/tag/v1.0a)
+如果需要幫忙可前往活動組服務台詢問
+You can put your BadUSB script into your badge with the BadgeCommander program: [Download Link](https://github.com/john0312/hitcon-pcb-badge/releases/tag/v1.0a)
+If you need any support, please reach out to the Events Support Desk for help.
 
 ## BadUSB 檔案格式/ BadUSB File Format
 
@@ -106,5 +114,5 @@ Delay between keypresses.
 | REPEAT  | Number of additional repeats | Repeat previous command     |
 
 ### 語法資料參考/ Reference
-此語法說明文件是參考 [Flipper Zero Firmware: BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html) 製成。  
-This documentation is based on [Flipper Zero Firmware: BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html).  
+此語法說明文件是參考 [Flipper Zero Firmware: BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html) 製成。
+This documentation is based on [Flipper Zero Firmware: BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html).
