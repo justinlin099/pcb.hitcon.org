@@ -38,6 +38,7 @@ Just a single comment line. The interpreter will ignore all text after the REM c
 
 ### Delay
 Pause script execution by a defined time.
+Note: Delay Cannot be greater than 2500 ms.
 
 | Command        | Parameters         | Notes                          |
 |----------------|--------------------|--------------------------------|
