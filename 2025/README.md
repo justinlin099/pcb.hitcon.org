@@ -9,16 +9,15 @@
   - [設定顯示模式/ Set Display Mode](#設定顯示模式)
   - [調整亮度/ Adjust Brightness](#調整亮度-adjust-brightness)
 - [遊戲/ Games](#遊戲-games)
-  - [駭客寵物/ Hacker Pet](#駭客寵物-Hacker-Pet)
+  - [駭客寵物/ Hacker Pet](#駭客寵物-hacker-pet)
   - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
   - [小恐龍/ Dino](#小恐龍-dino)
   - [貪吃蛇/ Snake](#貪吃蛇-snake)
 - [USB 功能/ USB Features](#usb-功能-usb-features)
+  - [顯示分數/ Show score](#show-score)
+  - [跨板溝通功能/ Cross-board Interactive](cross-board-interactive)
   - [Bad USB/ Bad USB](#bad-usb)
-- [跨板溝通功能/ Cross-board interactive](#跨板溝通功能-cross-board-interactive)
-  - [資料交換/ Data Exchange](#資料交換)
-  - [遊戲對戰/ Game Battle](#遊戲對戰)
-- [領獎規則/ Prize Collection Rules](#領獎規則-prize-collection-rules)
+- [領獎規則/ Prize Collection Rules](#領獎規則-prize-collection-rules)  
 
 ## 開始使用/ Getting Started
 
@@ -79,6 +78,33 @@ In the main interface (name display mode), you can set what information you want
 ### 調整亮度/ Adjust Brightness
 <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/87999224-b2e7-448a-9938-ea36154ff678' width="500"/>
 
+## 紅藍對決/ Red vs Blue: Badge Battle
+
+### 活動介紹/ Introduction
+紅藍對決是HITCON 2025 所有與會者都能參與的活動！這是一場實體的CTF，所有與會者將隨機分為紅、藍兩隊，活動會場將變成大型的陣地戰！
+你的Badge的燈泡顏色，即是你所被分配到的隊伍。活動會場將會有17個塔台，你可以透過以下方式來佔領塔台，紅藍勢力的版圖將隨時變動，攻下最多塔台的隊伍將是這次HITCON的贏家！
+
+### 分數取得方式
+
+#### 1. 隨處走走/ Walk around
+本次的PCB Badge新增記步器功能，只要你保持走動，就可以將你的步數轉換成分數發送到附近的塔台。
+
+#### 2. 貪吃蛇/ Snake
+1. 單機版：每玩一場貪食蛇，即可將你該場遊戲的分數發送到附近的塔台。
+2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
+
+#### 3. 俄羅斯方塊/ Tetris
+1. 單機版：每玩一場俄羅斯方塊，即可將你該場遊戲的分數發送到附近的塔台。
+2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
+
+#### 4. 小恐龍/ Dino
+每玩一場小恐龍，即可將你該場遊戲的分數發送到附近的塔台。
+
+#### 5. ReCTF
+1. 請先透過 CTFd 登入官網 SSO Token ，在 Profile 頁面綁定 Badge。
+2. 每解出一題，即可獲得一個永久的分數倍率加成(Buff)，解完所有題目，分數加成倍率為2倍
+
+
 
 ## 遊戲/ Games
 1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
@@ -90,7 +116,8 @@ In the main interface (name display mode), you can set what information you want
 
 1. 當你第一次進入Hacker Pet，你可以按左右鍵選擇你要養駭客貓貓還是駭客狗狗，按下OK鍵後即進入孵蛋模式。
 2. 在孵蛋模式中，你需要完成畫面中的步數，當孵化完成，你就可以獲得你的駭客寵物！
-3. 
+
+3. 跟贊助商的Badge對接一次，你的駭客寵物將可以獲得一次的升等
 
 ### 俄羅斯方塊/ Tetris
 
