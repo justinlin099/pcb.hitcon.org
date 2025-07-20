@@ -9,6 +9,7 @@
   - [設定顯示模式/ Set Display Mode](#設定顯示模式)
   - [調整亮度/ Adjust Brightness](#調整亮度-adjust-brightness)
 - [遊戲/ Games](#遊戲-games)
+  - [駭客寵物/ Hacker Pet](#駭客寵物-Hacker-Pet)
   - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
   - [小恐龍/ Dino](#小恐龍-dino)
   - [貪吃蛇/ Snake](#貪吃蛇-snake)
@@ -85,6 +86,12 @@ In the main interface (name display mode), you can set what information you want
 3. 當你選擇好要執行的功能時，就可以按下 OK 鍵。/ When you selected the function or games you want to run, press the OK key to execute.
 4. 按下 Mode 按鈕或是 Back 按鈕即可退出選單。/ To exit Main Menu, you can press either Mode key or Back key.
 
+### 駭客寵物/ Hacker Pet
+
+1. 當你第一次進入Hacker Pet，你可以按左右鍵選擇你要養駭客貓貓還是駭客狗狗，按下OK鍵後即進入孵蛋模式。
+2. 在孵蛋模式中，你需要完成畫面中的步數，當孵化完成，你就可以獲得你的駭客寵物！
+3. 
+
 ### 俄羅斯方塊/ Tetris
 
 <img src='https://github.com/user-attachments/assets/9157f5ec-f9fc-4080-83bc-75bbadca47e9' width="500"/>
@@ -96,6 +103,12 @@ In the main interface (name display mode), you can set what information you want
 ### 貪吃蛇/ Snake
 
 <img src='https://github.com/user-attachments/assets/f6e389ec-eaf6-46d8-b33f-ceb25c746561' width="500"/>
+
+## 其他顯示功能
+
+### Show Scores 
+
+
 
 ## USB 功能/ USB Features
 
