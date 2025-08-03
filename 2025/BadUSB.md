@@ -1,4 +1,4 @@
-# HITCON 2024 PCB Badge BadUSB Guide
+# HITCON 2025 PCB Badge BadUSB Guide
 BadUSB 使用說明/ BadUSB Guide
 
 ## 目錄/ TOC
