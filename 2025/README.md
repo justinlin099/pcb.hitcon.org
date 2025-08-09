@@ -8,6 +8,7 @@
   - [設定名字/ Set Your Name](#設定名字)
   - [設定顯示模式/ Set Display Mode](#設定顯示模式)
   - [調整亮度/ Adjust Brightness](#調整亮度-adjust-brightness)
+- [紅藍對決/ Red vs Blue: Badge Battle](#紅藍對決-Red-vs-Blue)
 - [遊戲/ Games](#遊戲-games)
   - [駭客寵物/ Hacker Pet](#駭客寵物-hacker-pet)
   - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
@@ -90,9 +91,7 @@ The color of the light on your badge indicates which team you’ve been assigned
 ### 分數取得方式/ How to Earn Points
 
 #### 1. 隨處走走/ Walk around
-本次的PCB Badge新增記步器功能，只要你保持走動，就可以持續獲得分數！
-
-This year’s PCB Badge includes a built-in pedometer. Just keep moving — just keep moving, and you’ll continuously earn points!
+本次的PCB Badge新增記步器功能，只要你保持走動，就可以持續獲得分數！/ This year’s PCB Badge includes a built-in pedometer. Just keep moving — just keep moving, and you’ll continuously earn points!
 
 #### 2.駭客貓對戰
 
@@ -115,59 +114,7 @@ This year’s PCB Badge includes a built-in pedometer. Just keep moving — just
 2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
 
 #### 4. 小恐龍/ Dino
-每玩一場小恐龍，即可將你該場遊戲的分數發送到附近的塔台。
-After each game, your score will be sent to nearby towers.
-
-#### 5. ReCTF
-1. 請先透過 CTFd 登入官網 SSO Token ，在 Profile 頁面綁定 Badge。
-2. 每解出一題，即可獲得一個永久的分數倍率加成(Buff)，解完所有題目，分數加成倍率為2倍
-####
-1. Log in to the official CTFd platform using your SSO Token and bind your badge on the Profile page.
-2. Each solved challenge grants a permanent score multiplier buff. If you complete all challenges, your final score multiplier will reach 2×.
-
-## 遊戲/ Games
-1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
-2. 在功能主選單中，你可以透過上下鍵來選擇要執行的功能或遊戲。/ You can navigate through the menu using up and down key to select the function or the game you want to run.
-3. 當你選擇好要執行的功能時，就可以按下 OK 鍵。/ When you selected the function or games you want to run, press the OK key to execute.
-4. 按下 Mode 按鈕或是 Back 按鈕即可退出選單。/ To exit Main Menu, you can press either Mode key or Back key.
-
-### 駭客寵物/ Hacker Pet
-
-1. 當你第一次進入Hacker Pet，你可以按左右鍵選擇你要養駭客貓貓還是駭客狗狗，按下OK鍵後即進入孵蛋模式。
-2. 在孵蛋模式中，你會看到畫面中有一個進度條。只要你在會場走動就可以加速孵蛋，當進度條歸零，你就可以獲得你的駭客寵物！
-3. 你的寵物共有三條生命值，每次戰鬥失敗會扣一格生命值。會場中有Red vs Blue is an interactive activity open to all HITCON 2025 attendees. In this real-world CTF-style challenge, each participant will be randomly assigned to either the Red or Blue team.
-The color of the light on your badge indicates which team you’ve been assigned to. There will be 17 towers throughout the venue. You can earn points through various activities, then connect your badge to the tower you want to capture to upload your score (and claim the tower). The battlefield between the red and blue teams will be constantly shifting—whichever team captures the most towers will be the ultimate winner of this year’s HITCON!
-
-### 分數取得方式/ How to Earn Points
-
-#### 1. 隨處走走/ Walk around
-本次的PCB Badge新增記步器功能，只要你保持走動，就可以持續獲得分數！
-
-This year’s PCB Badge includes a built-in pedometer. Just keep moving — just keep moving, and you’ll continuously earn points!
-
-#### 2.駭客寵物對戰/ 
-
-1.  駭客寵物操作規則，請參考下方說明
-2.  
-
-
-#### 3. 貪吃蛇/ Snake
-1. 單機版：每玩一場貪食蛇，即可將你該場遊戲的分數發送到附近的塔台。
-2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
-#### 
-1. Solo Mode: After each game, your score will be sent to nearby towers.
-2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
-
-#### 3. 俄羅斯方塊/ Tetris
-1. 單機版：每玩一場俄羅斯方塊，即可將你該場遊戲的分數發送到附近的塔台。
-2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
-####
-1. Solo Mode: After each game, your score will be sent to nearby towers.
-2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
-
-#### 4. 小恐龍/ Dino
-每玩一場小恐龍，即可將你該場遊戲的分數發送到附近的塔台。
-After each game, your score will be sent to nearby towers.
+每玩一場小恐龍，即可將你該場遊戲的分數發送到附近的塔台。/ After each game, your score will be sent to nearby towers.
 
 #### 5. ReCTF
 1. 請先透過 CTFd 登入官網 SSO Token ，在 Profile 頁面綁定 Badge。
@@ -208,7 +155,11 @@ After each game, your score will be sent to nearby towers.
 1. 請帶著你的寵物看世界。這次的PCB Badge內建記步器功能，只要到達一定步數，你的寵物即會升 1 等。
 2. 跟任一贊助商的 Badge 對接，你的駭客寵物將可以獲得 1 次的升等。（1 個贊助商只能升 1 等，重覆跟同一個贊助商對接 Badge 無法重覆升等喔！）
 3. 在訓練模式中，若成功 3 次你的寵物會升 1 等，若成功 5 次，寵物會一次升 10 等！
-4. 
+4. 如果與其他人對戰獲勝，即可升一等。
+
+#### 對戰模式
+
+1. 
 
 ### 俄羅斯方塊/ Tetris
 
