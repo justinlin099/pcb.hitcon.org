@@ -135,7 +135,7 @@ The color of the light on your badge indicates which team you’ve been assigned
 2. 在孵蛋模式中，你會看到畫面中有一個進度條。只要你在會場走動就可以加速孵蛋，當進度條歸零，你就可以獲得你的駭客寵物！
 
 
-<img src='./駭客寵物.webp' width="500"/>
+<img src='./Choose Your Pet.webp' width="500"/>
 
 
 #### (孵化後)介面介紹
