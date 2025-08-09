@@ -145,9 +145,9 @@ The color of the light on your badge indicates which team you’ve been assigned
 
 This year’s PCB Badge includes a built-in pedometer. Just keep moving — just keep moving, and you’ll continuously earn points!
 
-#### 2.駭客貓對戰
+#### 2.駭客寵物對戰/ 
 
-1.  駭客貓操作規則，請參考下方說明
+1.  駭客寵物操作規則，請參考下方說明
 2.  
 
 
@@ -203,8 +203,10 @@ After each game, your score will be sent to nearby towers.
 
 #### 升等機制
 
-1. 
-2. 跟贊助商的Badge對接一次，你的駭客寵物將可以獲得一次的升等
+1. 請帶著你的寵物看世界。這次的PCB Badge內建記步器功能，只要到達一定步數，你的寵物即會升 1 等。
+2. 跟任一贊助商的 Badge 對接，你的駭客寵物將可以獲得 1 次的升等。（1 個贊助商只能升 1 等，重覆跟同一個贊助商對接 Badge 無法重覆升等喔！）
+3. 在訓練模式中，若成功 3 次你的寵物會升 1 等，若成功 5 次，寵物會一次升 10 等！
+4. 
 
 ### 俄羅斯方塊/ Tetris
 
