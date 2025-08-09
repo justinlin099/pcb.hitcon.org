@@ -189,7 +189,7 @@ After each game, your score will be sent to nearby towers.
 3. 你的寵物共有三條生命值，每次戰鬥失敗會扣一格生命值。會場中有4個寵物中心，你可以到寵物中心為你的寵物補血。
 4. 請好好保護你的駭客寵物。若生命值歸零，你的寵物會降一等、並進入虛弱狀態，若進入虛弱狀態你無法再與你的寵物互動，要到寵物中心補血後才可再次與你的寵物一同遊玩。
 
-[駭客寵物.webm](https://github.com/user-attachments/assets/61987da4-0985-4383-a841-273433c5cf14)
+<img src='./駭客寵物.webp' width="500"/>
 
 
 #### (孵化後)介面介紹
