@@ -150,6 +150,8 @@ The color of the light on your badge indicates which team you’ve been assigned
    - 訓練場的遊戲與對戰模式相同，你可以透過訓練場練習，讓你在跟別人對戰時更容易獲勝！
    - 在訓練模式中，箭頭會來回移動 5 次，每次畫面上方會出現一個指標，你要在箭頭指到指標時按下OK鍵使其對齊。若您的箭頭與指標對齊，即算是成功 1 次。若成功 3 次你的寵物會升 1 等，若成功 5 次，寵物會一次升 10 等！
 
+<img src='https://github.com/user-attachments/assets/34389b6a-fa03-446e-97f8-a216631c5c72' width="500"/>
+
 #### 升等機制
 
 1. 請帶著你的寵物看世界。這次的PCB Badge內建記步器功能，只要到達一定步數，你的寵物即會升 1 等。
