@@ -19,6 +19,8 @@ BadUSB 使用說明/ BadUSB Guide
 HITCON PCB Badge BadUSB 大致上與 USB Rubber Ducky 1.0 and Flipper 腳本語言相容，以下是你可使用的指令與語法:
 HITCON PCB Badge BadUSB is mostly compatible with USB Rubber Ducky 1.0 and Flipper Scripting Language, the following is the syntax you can use:
 
+![](./駭客寵物.webp)
+
 ## Command set
 
 ### Comment line
