@@ -82,20 +82,23 @@ In the main interface (name display mode), you can set what information you want
 
 ### 活動介紹/ Introduction
 紅藍對決是HITCON 2025 所有與會者都能參與的活動！這是一場實體的CTF，所有與會者將隨機分為紅、藍兩隊，活動會場將變成大型的陣地戰！
-你的Badge的燈泡顏色，即是你所被分配到的隊伍。活動會場將會有17個塔台，你可以透過以下方式來佔領塔台，紅藍勢力的版圖將隨時變動，攻下最多塔台的隊伍將是這次HITCON的贏家！
+你的Badge的燈泡顏色，即是你所被分配到的隊伍。活動會場將會有17個塔台，你可以透過以下方式來取得分數。取得分數後，並與你想要佔領的塔台對接，即可將你的分數傳送到塔台（攻佔塔台）。紅藍勢力的版圖將隨時變動，攻下最多塔台的隊伍將是這次HITCON的贏家！
 
 Red vs Blue is an interactive activity open to all HITCON 2025 attendees. In this real-world CTF-style challenge, each participant will be randomly assigned to either the Red or Blue team.
-The venue will be transformed into a competitive battlefield with 17 towers spread across the area. Your badge’s LED color shows which team you belong to. By completing the tasks listed below, you’ll help your team capture towers and shift control of the map in real time.
-The team that controls the most towers by the end of the event will be crowned the winner of HITCON!
+The color of the light on your badge indicates which team you’ve been assigned to. There will be 17 towers throughout the venue. You can earn points through various activities, then connect your badge to the tower you want to capture to upload your score (and claim the tower). The battlefield between the red and blue teams will be constantly shifting—whichever team captures the most towers will be the ultimate winner of this year’s HITCON!
 
 ### 分數取得方式/ How to Earn Points
 
 #### 1. 隨處走走/ Walk around
-本次的PCB Badge新增記步器功能，只要你保持走動，就可以將你的步數轉換成分數發送到附近的塔台。
+本次的PCB Badge新增記步器功能，只要你保持走動，就可以持續獲得分數！
 
-This year’s PCB Badge includes a built-in pedometer. Just keep moving — your steps will be converted into points and automatically sent to nearby towers.
+This year’s PCB Badge includes a built-in pedometer. Just keep moving — just keep moving, and you’ll continuously earn points!
 
-#### 2. 貪吃蛇/ Snake
+#### 2.駭客貓對戰
+
+
+
+#### 3. 貪吃蛇/ Snake
 1. 單機版：每玩一場貪食蛇，即可將你該場遊戲的分數發送到附近的塔台。
 2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
 
@@ -105,6 +108,7 @@ This year’s PCB Badge includes a built-in pedometer. Just keep moving — your
 #### 3. 俄羅斯方塊/ Tetris
 1. 單機版：每玩一場俄羅斯方塊，即可將你該場遊戲的分數發送到附近的塔台。
 2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
+
 
 1. Solo Mode: After each game, your score will be sent to nearby towers.
 2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
@@ -129,7 +133,7 @@ After each game, your score will be sent to nearby towers.
 ### 駭客寵物/ Hacker Pet
 
 1. 當你第一次進入Hacker Pet，你可以按左右鍵選擇你要養駭客貓貓還是駭客狗狗，按下OK鍵後即進入孵蛋模式。
-2. 在孵蛋模式中，你需要完成畫面中的步數，當孵化完成，你就可以獲得你的駭客寵物！
+2. 在孵蛋模式中，你會看到畫面中有一個進度條。當進度條歸零，你就可以獲得你的駭客寵物！
 
 3. 跟贊助商的Badge對接一次，你的駭客寵物將可以獲得一次的升等
 
