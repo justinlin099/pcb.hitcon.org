@@ -96,20 +96,20 @@ This year’s PCB Badge includes a built-in pedometer. Just keep moving — just
 
 #### 2.駭客貓對戰
 
+1.  駭客貓操作規則，請參考下方說明
 
 
 #### 3. 貪吃蛇/ Snake
 1. 單機版：每玩一場貪食蛇，即可將你該場遊戲的分數發送到附近的塔台。
 2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
-
+#### 
 1. Solo Mode: After each game, your score will be sent to nearby towers.
 2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
 
 #### 3. 俄羅斯方塊/ Tetris
 1. 單機版：每玩一場俄羅斯方塊，即可將你該場遊戲的分數發送到附近的塔台。
 2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
-
-
+####
 1. Solo Mode: After each game, your score will be sent to nearby towers.
 2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
 
@@ -120,7 +120,7 @@ After each game, your score will be sent to nearby towers.
 #### 5. ReCTF
 1. 請先透過 CTFd 登入官網 SSO Token ，在 Profile 頁面綁定 Badge。
 2. 每解出一題，即可獲得一個永久的分數倍率加成(Buff)，解完所有題目，分數加成倍率為2倍
-
+####
 1. Log in to the official CTFd platform using your SSO Token and bind your badge on the Profile page.
 2. Each solved challenge grants a permanent score multiplier buff. If you complete all challenges, your final score multiplier will reach 2×.
 
