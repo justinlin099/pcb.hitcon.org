@@ -8,7 +8,7 @@
   - [設定名字/ Set Your Name](#設定名字)
   - [設定顯示模式/ Set Display Mode](#設定顯示模式)
   - [調整亮度/ Adjust Brightness](#調整亮度-adjust-brightness)
-- [紅藍對決/ Red vs Blue: Badge Battle](#紅藍對決-Red-vs-Blue)
+- [紅藍對決/ Red vs Blue: Badge Battle](#紅藍對決-red-vs-blue-badge-battle)
 - [遊戲/ Games](#遊戲-games)
   - [駭客寵物/ Hacker Pet](#駭客寵物-hacker-pet)
   - [俄羅斯方塊/ Tetris](#俄羅斯方塊-tetris)
