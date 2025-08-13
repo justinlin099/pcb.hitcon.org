@@ -255,7 +255,7 @@ The color of the light on your badge indicates which team you’ve been assigned
    - 魔王級
    - 以上只要通關任一難度即可現場領獎
      
-### HITCON 紅藍對決 分數登記與領獎時間
+### HITCON 紅藍對決領獎時間
 
 您的紅藍對決的分數將會顯示在布告欄上，若名次在 60 名以內，即可到活動組攤會領取神秘獎品！
         
