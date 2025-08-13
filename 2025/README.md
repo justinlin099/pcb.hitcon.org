@@ -79,49 +79,6 @@ In the main interface (name display mode), you can set what information you want
 ### 調整亮度/ Adjust Brightness
 <img src='https://github.com/justinlin099/pcb.hitcon.org/assets/61717681/87999224-b2e7-448a-9938-ea36154ff678' width="500"/>
 
-## 紅藍對決/ Red vs Blue: Badge Battle
-
-### 活動介紹/ Introduction
-紅藍對決是HITCON 2025 所有與會者都能參與的活動！這是一場實體的CTF，所有與會者將隨機分為紅、藍兩隊，活動會場將變成大型的陣地戰！
-你的Badge的燈泡顏色，即是你所被分配到的隊伍。活動會場將會有17個塔台，你可以透過以下方式來取得分數。取得分數後，並與你想要佔領的塔台對接，即可將你的分數傳送到塔台（攻佔塔台）。紅藍勢力的版圖將隨時變動，攻下最多塔台的隊伍將是這次HITCON的贏家！
-
-Red vs Blue is an interactive activity open to all HITCON 2025 attendees. In this real-world CTF-style challenge, each participant will be randomly assigned to either the Red or Blue team.
-The color of the light on your badge indicates which team you’ve been assigned to. There will be 17 towers throughout the venue. You can earn points through various activities, then connect your badge to the tower you want to capture to upload your score (and claim the tower). The battlefield between the red and blue teams will be constantly shifting—whichever team captures the most towers will be the ultimate winner of this year’s HITCON!
-
-### 分數取得方式/ How to Earn Points
-
-#### 1. 隨處走走/ Walk around
-本次的PCB Badge新增記步器功能，只要你保持走動，就可以持續獲得分數！/ This year’s PCB Badge includes a built-in pedometer. Just keep moving — just keep moving, and you’ll continuously earn points!
-
-#### 2.駭客貓對戰
-
-1.  駭客貓操作規則，請參考下方說明
-2.  
-
-
-#### 3. 貪吃蛇/ Snake
-1. 單機版：每玩一場貪食蛇，即可將你該場遊戲的分數發送到附近的塔台。
-2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
-#### 
-1. Solo Mode: After each game, your score will be sent to nearby towers.
-2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
-
-#### 3. 俄羅斯方塊/ Tetris
-1. 單機版：每玩一場俄羅斯方塊，即可將你該場遊戲的分數發送到附近的塔台。
-2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
-####
-1. Solo Mode: After each game, your score will be sent to nearby towers.
-2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
-
-#### 4. 小恐龍/ Dino
-每玩一場小恐龍，即可將你該場遊戲的分數發送到附近的塔台。/ After each game, your score will be sent to nearby towers.
-
-#### 5. ReCTF
-1. 請先透過 CTFd 登入官網 SSO Token ，在 Profile 頁面綁定 Badge。
-2. 每解出一題，即可獲得一個永久的分數倍率加成(Buff)，解完所有題目，分數加成倍率為2倍
-####
-1. Log in to the official CTFd platform using your SSO Token and bind your badge on the Profile page.
-2. Each solved challenge grants a permanent score multiplier buff. If you complete all challenges, your final score multiplier will reach 2×.
 
 ## 遊戲/ Games
 1. 你可以透過按下 Mode 按鈕進入 Badge 的功能主選單。/ You can access Main Menu by pressing Mode button on your badge.
@@ -152,16 +109,26 @@ The color of the light on your badge indicates which team you’ve been assigned
 
 <img src='./Hacker Pet.webp' width="500"/>
 
-#### 升等機制
-
-1. 請帶著你的寵物看世界。這次的PCB Badge內建記步器功能，只要到達一定步數，你的寵物即會升 1 等。
-2. 跟任一贊助商的 Badge 對接，你的駭客寵物將可以獲得 1 次的升等。（1 個贊助商只能升 1 等，重覆跟同一個贊助商對接 Badge 無法重覆升等喔！）
-3. 在訓練模式中，若成功 3 次你的寵物會升 1 等，若成功 5 次，寵物會一次升 10 等！
-4. 如果與其他人對戰獲勝，即可升一等。
-
 #### 對戰模式
 
-1. 
+1. 雙方 PCB 版對接後，將會進入 Badge 的功能主選單。請透過上下鍵，選到「Hacker Pet」功能後，短按 OK 鍵。 (雙方都需要執行此步驟)。
+2. 螢幕上會出現確認對戰的畫面，雙方都需要按下「y」鍵，才可進入對戰。此時會顯示雙方寵物對峙的畫面，讓您做對戰準備。大約 3 秒後即會直接進入對戰。
+3. 雖然等級高會具備一些優勢，但對戰時的成功次數才是勝敗的主要因素，因此即便您的等級較低，還是能夠勝過對手！
+   - 若成功 4 次，有 50% 的機率可以直接將對手打入虛弱狀態。
+   - 若成功 5 次，有 100% 的機率會直接將對手打入虛弱狀態。
+5. 若你的寵物勝利，會出現歡呼的圖樣。若您的寵物戰敗，會出現「...」的圖樣。
+6. 戰鬥結算
+   - 勝利的一方會升 3 等
+   - 戰敗的一方會減少 1 格生命值，務必留意您的寵物生命值，若歸零會進入虛弱狀態並降 1 等喔！
+
+#### 升等機制
+
+1. 請帶著你的寵物看世界。這次的 PCB Badge 內建記步器功能，只要到達一定步數，你的寵物即會升 1 等。
+2. 跟任一贊助商的 Badge 對接，你的駭客寵物將可以獲得 1 次的升等。（1 個贊助商只能升 1 等，重覆跟同一個贊助商對接 Badge 無法重覆升等喔！）
+3. 在訓練模式中，若成功 3 次你的寵物會升 1 等，若成功 5 次，寵物會一次升 10 等！
+4. 如果與其他人對戰獲勝，即可升 3 等。
+
+
 
 ### 俄羅斯方塊/ Tetris
 
@@ -175,7 +142,45 @@ The color of the light on your badge indicates which team you’ve been assigned
 
 <img src='https://github.com/user-attachments/assets/f6e389ec-eaf6-46d8-b33f-ceb25c746561' width="500"/>
 
+## 紅藍對決/ Red vs Blue: Badge Battle
 
+### 活動介紹/ Introduction
+紅藍對決是HITCON 2025 所有與會者都能參與的活動！這是一場實體的CTF，所有與會者將隨機分為紅、藍兩隊，活動會場將變成大型的陣地戰！
+你的Badge的燈泡顏色，即是你所被分配到的隊伍。活動會場將會有17個塔台，你可以透過以下方式來取得分數。取得分數後，並與你想要佔領的塔台對接，即可將你的分數傳送到塔台（攻佔塔台）。紅藍勢力的版圖將隨時變動，攻下最多塔台的隊伍將是這次HITCON的贏家！
+
+Red vs Blue is an interactive activity open to all HITCON 2025 attendees. In this real-world CTF-style challenge, each participant will be randomly assigned to either the Red or Blue team.
+The color of the light on your badge indicates which team you’ve been assigned to. There will be 17 towers throughout the venue. You can earn points through various activities, then connect your badge to the tower you want to capture to upload your score (and claim the tower). The battlefield between the red and blue teams will be constantly shifting—whichever team captures the most towers will be the ultimate winner of this year’s HITCON!
+
+### 分數取得方式/ How to Earn Points
+
+#### 1. 隨處走走/ Walk around
+本次的PCB Badge新增記步器功能，只要你保持走動，就可以持續獲得分數！/ This year’s PCB Badge includes a built-in pedometer. Just keep moving — just keep moving, and you’ll continuously earn points!
+
+#### 3. 貪吃蛇/ Snake
+1. 單機版：每玩一場貪食蛇，即可將你該場遊戲的分數發送到附近的塔台。
+2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
+
+
+####  
+1. Solo Mode: After each game, your score will be sent to nearby towers.
+2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
+
+#### 3. 俄羅斯方塊/ Tetris
+1. 單機版：每玩一場俄羅斯方塊，即可將你該場遊戲的分數發送到附近的塔台。
+2. 對戰版：分數高的一方勝利。勝利者將可以發送兩倍的分數到附近的塔台，敗者仍可以發送一倍的分數到附近的塔台。
+####
+1. Solo Mode: After each game, your score will be sent to nearby towers.
+2. Versus Mode: The player with the higher score wins. The winner sends double points to nearby towers, while the loser still sends regular points.
+
+#### 4. 小恐龍/ Dino
+每玩一場小恐龍，即可將你該場遊戲的分數發送到附近的塔台。/ After each game, your score will be sent to nearby towers.
+
+#### 5. ReCTF
+1. 請先透過 CTFd 登入官網 SSO Token ，在 Profile 頁面綁定 Badge。
+2. 每解出一題，即可獲得一個永久的分數倍率加成(Buff)，解完所有題目，分數加成倍率為2倍
+####
+1. Log in to the official CTFd platform using your SSO Token and bind your badge on the Profile page.
+2. Each solved challenge grants a permanent score multiplier buff. If you complete all challenges, your final score multiplier will reach 2×.
 
 
 ## USB 功能/ USB Features
