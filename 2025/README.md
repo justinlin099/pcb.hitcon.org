@@ -16,7 +16,7 @@
   - [貪吃蛇/ Snake](#貪吃蛇-snake)
 - [紅藍對決/ Red vs Blue: Badge Battle](#紅藍對決-red-vs-blue-badge-battle)
 - [USB 功能/ USB Features](#usb-功能-usb-features)
-  - [跨板溝通功能/ Cross-board Interactive](cross-board-interactive)
+  - [跨板溝通功能/ Cross-board Interactive](#跨板溝通功能-cross-board-interactive)
   - [Bad USB/ Bad USB](#bad-usb)
 - [領獎規則/ Prize Collection Rules](#領獎規則-prize-collection-rules)  
 
