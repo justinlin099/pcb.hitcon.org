@@ -101,7 +101,7 @@ In the main interface (name display mode), you can set what information you want
 #### (孵化後)介面介紹
 
 1. 主畫面左邊為你的寵物，右邊為你的生命值。
-   - 你的寵物共有 3 條生命值，每次戰鬥失敗會扣 1 格生命值。會場中有 4 個小駭客中心，只要將你的 PCB Badge 與小駭客中心對接，即可為你的寵物補血。
+   - 你的寵物共有 3 條生命值，每次戰鬥失敗會扣 1 格生命值。會場中的基地台也同時是小駭客中心，只要將你的 PCB Badge 與基地台對接，即可為你的寵物補血。
    - 請好好保護你的駭客寵物。若生命值歸零將會進入虛弱狀態，你無法再與你的寵物互動，要到小駭客中心補血後才可再次與你的寵物一同遊玩。
 2. 在主畫面，任意按上下鍵，可看到您目前的等級。
 3. 餵食：主畫面按左鍵，會進入餵食畫面。選擇右邊的「y」，按 OK 鍵確認餵食。
@@ -113,7 +113,7 @@ In the main interface (name display mode), you can set what information you want
 #### (After Hatching) Interface Overview
 
 1. On the main screen, your pet is shown on the left, and its health is displayed on the right.
-   - Your pet has a total of 3 health points. Each time you lose a battle, 1 health point will be deducted. There are 4 Hacker Pet Centers in the venue. Simply connect your PCB Badge to any of them to restore your pet’s health.
+   - Your pet has a total of 3 health points. Each time you lose a battle, 1 health point will be deducted. The base stations in the venue also function as Hacker Pet Health Centers. Simply connect your PCB Badge to a base station to restore your pet’s health.
    - Take good care of your Hacker Pet! If its health reaches zero, it will enter a weakened state, and you will no longer be able to interact with it. You must visit a Hacker Pet Center to heal it before you can play with your pet again.
 2. On the main screen, press either the up or down button to view your current level.
 3. Feeding: On the main screen, press the left button to enter the feeding screen. Select “y” on the right and press OK to confirm feeding.
